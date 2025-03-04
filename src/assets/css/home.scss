@@ -1,0 +1,18 @@
+.header{
+  position: relative;
+  .logo {
+    float: left;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin: 16px 84px 16px 20px;
+    background: url("../../assets/img/logo.png") no-repeat center/cover;
+  }
+  .avatar{
+    position: absolute;
+    right: 25px;
+    
+  }
+}
+  
+  
